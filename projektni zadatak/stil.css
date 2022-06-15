@@ -1,0 +1,18 @@
+body {
+	font-family: arial;
+	background-image: url(pozadina.jpg);
+
+}
+h1 {
+	font-size: 18px;
+	border-bottom-style: solid;
+	border-bottom-color: purple;
+}
+h2 {
+	color: purple;
+	background-color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+}
